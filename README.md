@@ -5,7 +5,7 @@
 This project is jointly developed by ReX iMoo Team of ReX Wear Project under ReX organization. The copyright and copyright belong to ReX Group.
 
 #### Software architecture
-x86 or x86_64 Windows 10/11 system (other older versions have not been tested)
+x86 or x86_64 Windows 8.1/10/11 system (other older versions have not been tested)
 
 #### Download the software
 Please go to[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)or[releases（github）](https://github.com/ReX-iMoo-Team/iMoo-Toolkit/releases)Web page download
@@ -30,7 +30,7 @@ After installing the driver on the computer, directly open the exe executable fi
 
 #### Instructions
 
-1. Please use Windows 11/10 full version system
+1. Please use Windows 8.1/11/10 full version system
 2. Please run this program after connecting the watch with a four-point wire
 3. Do not modify and inject this program, otherwise it may not work properly
 
